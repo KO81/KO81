@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KO81 ==> functions are fun
-- 👀 I’m interested in all sorts of pgp java vanilla and jquery scripting. some css, but that's a little far out;
+- 👀 I’m interested in all sorts of php java vanilla and jquery scripting. some css, but that's a little far out;
 - 🌱 I’m currently interested in phyton, angular
 - 💞️ I’m looking to collaborate with anyone who might have a question.
 - 📫 How to reach me, well i'm here, reddit and some other places.
